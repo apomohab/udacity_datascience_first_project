@@ -58,4 +58,6 @@
 - The mean squared score for the model using only quantitative variables was 1.0002248107407395e+29 on 15418 values.
 - The r-squared score for the model using only quantitative variables was -2.48560182584156e+20 on 15418 values.
 
+#for see tthe explain project in blog medium in this link 
 
+- https://sa3ed.medium.com/stack-overflow-data-in-2017-35230234665d

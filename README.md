@@ -522,6 +522,9 @@ and make a bar chart of the proportion of individuals in each status**
 **https://sa3ed.medium.com/stack-overflow-data-in-2017-35230234665d**
 
 **Thank you for review my project**
+
 **Best Wishes**
+
 **Autherd by**
+
 **Saeede Shaban**

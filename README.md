@@ -525,6 +525,6 @@ and make a bar chart of the proportion of individuals in each status**
 
 **Best Wishes**
 
-**Autherd by**
+**Authoring by**
 
 **Saeede Shaban**
